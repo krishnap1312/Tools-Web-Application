@@ -6,6 +6,12 @@ This Web Application contains tools such as **CountDown, Alarm and StopWatch**
 # Description
 This GitHub repository contains source code and resources for a project involving web development. It includes the HTML, CSS, JavaScript, and other related files necessary for the project, along with any additional documentation. The repository is regularly updated with fixes and changes, making it an evolving resource for web development projects. This project is a demonstration of my programming abilities. It is meant to showcase my knowledge and skillset in programming.
 
+# Content of the Web Application
+1. Automatic Color changing Heading.
+2. Real-time Clock.
+3. onclick content **appears** or **disappears**.
+4. Tones are available for the alarm clock, which can be selected from dropdown menu.
+
 
 # Installation
 1. Clone the repository or download the zip folder of this repository.
