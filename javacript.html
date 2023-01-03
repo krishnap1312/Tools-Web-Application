@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="javacript.css">
+   
+    <title>JavaScript Project</title>
+</head>
+<body onload="colorsq();clockMain();alarm_clock()">
+    <nav>
+        <li onclick="alarm_clocks()">Alarm</li>
+        <li class="LiStopwatch" onclick="showStopwatch()">Stopwatch</li>
+        <li><a href="./javacript1.html"> More </a></li>
+       
+    </nav>
+
+    <div>
+        <h1 class="Head">Welcome to Tool Webpage</h1>
+        
+        <div>
+            <center>
+                <div class="Timers">
+                    <span class="mhour">00</span>
+                    <span class="colon">:</span>
+                    <span class="mlminute">00</span>
+                    <span class="colon">:</span>
+                    <span class="msecond">00</span>
+                    <span class="AMPM"></span>
+                    
+                </div>
+            </center>
+        </div>
+
+        <div class="content">
+            <!-- <div></div> -->
+            <div class="Alarm_DV">
+                <div id = "alarm" class="alarm" >Alarm</div><br> 
+                <div class="AlarmTimer">
+                    <span class="alhour">00</span>
+                    <span class="colons">:</span>
+                    <span class="alminute">00</span>
+                    <span class="colons">:</span>
+                    <span class="alsecond">00</span>
+                    
+                </div><br><br><br><br><br>
+                <div class="alaramTone">
+                    <label for="">Alarm Tone</label><br>
+                    <select name="" id="AlarmTone">
+                        <option value="">Select Alarm Tone</option>
+                        <option value="chiptune-alarm-clock">chiptune alarm clock</option>
+                        <option value="dreamscape-alarm-clock">dreamscape alarm clock</option>
+                        <option value="oversimplified-alarm-clock">oversimplified alarm clock</option>
+                        <option value="ringtone">ringtone</option>
+                        <option value="star-dust-alarm-clock">star dust alarm clock</option>
+                    </select><br><br>
+                    <input type="time" name="" id="time">
+                </div>
+                <div class="buttons">
+                
+                <button class="Start" onclick="Alarm()">Start</button>
+                <button class="Stop" onclick="alstop()">Stop</button>
+                </div>
+            </div>
+
+            <div class="Stopwatch_DV">
+                <div class="StopWatch" >Stop Watch</div>
+                
+                    <div class="StopTimer">
+                        <span class="sthour">00</span>
+                        <span class="colons">:</span>
+                        <span class="stminute">00</span>
+                        <span class="colons">:</span>
+                        <span class="stsecond">00</span>
+                        <span class="colons">:</span>
+                        <span class="stmillisecond">00</span>
+                    </div>
+                    <div class="buttons">
+                    <button class="stStart"id="Start" onclick="start()">Start</button>
+                    <button class="stReset" onclick="reset()">Reset</button>
+                    <button class="stStop" onclick="stop()">Stop</button>
+                    </div>
+            </div>
+                  
+        
+            
+        </div>
+    </div>
+
+    
+
+    
+
+</body>
+<script src="javascript.js"></script>
+</html>

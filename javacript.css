@@ -1,0 +1,171 @@
+body{
+    background-image: url(./resul-mentes-DbwYNr8RPbg-unsplash.jpg);
+    background-size: cover;
+    }
+    a{
+        text-decoration: none;
+        color: #0a2647;
+    }
+nav>li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 10px;
+    color: #0A2647;
+    font-size: 200%;
+}
+nav>li:hover{
+    cursor: pointer;;
+}
+nav{
+    background-color: #BFEAF5;
+    height: fit-content;
+    align-items: center;
+    text-align: center;
+}
+.Head{
+    color: #b4af36;
+    margin-left:38%;    
+    margin-top: 05%;
+}
+.clock-timer{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+/* time */
+
+.mhour, .mlminute, .msecond,.colon{
+    color: #0A2647;
+    font-size: 500%;
+
+}
+label{
+    font-size: 140%;
+    color: red;
+}
+b{
+    font-size: 180%;
+    text-decoration: none;
+}
+
+
+
+/* time-close */
+.alarm, .StopWatch{
+    text-decoration: overline;
+    text-shadow: 0px 0px 40px #DC0000;
+    font-size: 240%;
+    padding: 10%;
+    margin-top: 10%;
+
+}
+
+.content{
+    display: grid;
+    grid-template-columns: auto  auto auto auto;
+    grid-row-gap: 100%;}
+    
+
+/* .StopWatch{
+    display: none;
+} */
+
+/* Alarm */
+.Timer{
+    float: right;
+    margin: 10% 0% 0% 10%;
+    padding: 0% 10% 0% 0%;
+}
+.buttons{
+    float: right;
+    padding: 10%;
+}
+
+.alhour,.alminute,.alsecond,.stmillisecond,.stsecond,.colons,.stminute,.sthour{
+    font-size: 100%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+input[type="time"]{
+    width: 30%;
+}
+.AlarmTimer,.StopTimer{
+    font-size: 240%;
+    float: right;
+    margin: 10% 0% 0% 10%;
+    padding: 0% 10% 0% 0%;
+}
+
+/* Alarm close */
+.Stopwatch_DV,.Alarm_DV{
+    margin-top: 50px;
+    margin-left: 50%;
+    border: 2px solid black;
+    box-shadow: 10px 10px 60px blue,-10px -10px 60px red;
+    width: 400px;
+    border-radius: 40px 20px;
+    visibility: hidden;
+}
+.Alarm_DV>.buttons{
+    display: flex;
+}
+.Stopwatch_DV>.buttons{
+    margin-top: 40%;
+    display: flex;
+}
+.alaramTone{
+    padding: 40px;
+}
+    
+#AlarmTone,#time{
+    height: 40px;
+    width: max-content;
+    font-size: larger;
+}
+.Start,.Reset,.Stop,.stStart,.stReset,.stStop{
+    padding: 10px;
+    width: 70%;
+    background-color: #181D31;
+    margin: 10px;
+    color: #FFFBEB;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20% 40%;
+    cursor: pointer;
+}
+/* Page 2 */
+/* countdown */
+.Countdown-div{
+    visibility: hidden;
+    margin-top: 10%;
+    margin: auto;
+    text-align: center;
+    border: 2px solid #0A2647;
+    width: fit-content;
+    padding: 3%;
+    border-radius: 40px 20px;
+    box-shadow: 10px 10px 60px #A555EC , -10px -10px 40px red ;
+}
+.div-count{
+    margin-top: 5%;
+}
+.Count,.CountDown{
+    color: #181D31;
+    font-size: 280%;
+}
+.sent{
+    font-size: 140%;
+}
+#nums{
+    width: 100%;
+    font-size: 140%;
+    border: 2px solid #b4af36;
+    border-radius: 5% ;
+    text-align: center;
+}
+.buttons-count>button{
+    padding: 5%;
+    margin: 5%;
+    border: 2px solid #0a2647;
+    border-radius: 10% 50% ;
+}
+/* countdown closed */

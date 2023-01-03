@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="javacript.css">
+    <title>Document</title>
+</head>
+<body onload="colorsq();clockMain()">
+    <nav>
+        <li class="CountDown" onclick="showcountDown()"> CountDown </li>
+        <li><a href="./javacript.html"> More </a></li>
+    </nav>
+
+    <div>
+        <center><h1 class="rHead">Welcome to Tool Webpage</h1></center>
+        
+        <div>
+                <center>
+                <div class="Timers">
+                    <span class="mhour">00</span>
+                    <span class="colon">:</span>
+                    <span class="mlminute">00</span>
+                    <span class="colon">:</span>
+                    <span class="msecond">00</span>
+                    <span class="AMPM"></span>
+                    
+                </div>
+            </center>
+        </div>
+    </div>
+
+        <div class="div-count">
+            <div class="Countdown-div">
+               
+                <h1 class="CountDown">Count Down</h1>
+                <h2 class="Count">0</h2>
+                <h4 class="sent">Give number for Count Down</h4>
+                <div><input type="text" name="number" id="nums"></div>
+                <div class="buttons-count">
+                    <button class="StartCount" onclick="Countdown()">Start Count</button>
+                    <button class="StartCount" onclick="CountDownReset()">reset Count</button>
+            </div>
+            </div>
+
+           
+        </div>
+        
+       
+
+
+        
+<script src="javascript1.js"></script>
+</body>
+
+</html>
