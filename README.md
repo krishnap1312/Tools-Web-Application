@@ -25,7 +25,7 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
 
 **====== Alarm ======**
 
-   # How to use it?
+   ### How to use it?
    1. Click on **Alarm** from **Navigation** bar on the top.
    2. Set **Alarm time** manually as required.
    3. Select **Alarm tune** from **dropdown menu**.
