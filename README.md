@@ -23,7 +23,7 @@ This GitHub repository contains source code and resources for a project involvin
 # Tools Usage 
 This project can be used to utilize different tools such as Alarms, Stopwatches and Countdowns.
 
-        ====== **Alarm** ======
+====== **Alarm** ======
                 # How to use it?
                     1. Click on **Alarm** from **Navigation** bar on the top.
                     2. Set **Alarm time** manually as required.
@@ -32,7 +32,7 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
                     5. You can Stop the alarm before or after the alarm rings. 
         
 
-        [Uploading 2023-01-05 20-21-52.mp4…](https://user-images.githubusercontent.com/113228728/210812393-f3c148a7-9243-42c0-a49f-a4078a7b2874.mp4)
+[Uploading 2023-01-05 20-21-52.mp4…](https://user-images.githubusercontent.com/113228728/210812393-f3c148a7-9243-42c0-a49f-a4078a7b2874.mp4)
 
 
         ====== **StopWatch** ======
