@@ -32,23 +32,31 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
                     5. You can Stop the alarm before or after the alarm rings. 
         
 
-[Uploading 2023-01-05 20-21-52.mp4…](https://user-images.githubusercontent.com/113228728/210812393-f3c148a7-9243-42c0-a49f-a4078a7b2874.mp4)
+   [Uploading 2023-01-05 20-21-52.mp4…](https://user-images.githubusercontent.com/113228728/210812393-f3c148a7-9243-42c0-a49f-a4078a7b2874.mp4)
 
 
-        ====== **StopWatch** ======
+====== **StopWatch** ======
         # How to use it?
             1. Click on **StopWatch** from **Navigation** bar on the top.
             2. Click on the **Start** button to start the Stopwatch.
             3. Click on the **Reset** button to Reset the stopwatch.
             4. click on the **Stop** button on the stopwatch at a particular time.
             
-        ************************************* **CLICK ON MORE** *************************************
+            
+
+  https://user-images.githubusercontent.com/113228728/210812903-8509a89f-b9c9-46b5-8adf-32c3940ef29d.mp4
+
+
+
+
+            
+************************************* **CLICK ON MORE** *************************************
               
 
-              Uploading 2023-01-05 20-30-09.mp4…
+ 
 
 
-        ====== **CountDown** ======
+====== **CountDown** ======
         # How to use it?
             1. click on **CountDown** from **Navigation** bar on the top.
             2. Set **CountDown** number manually as required.
@@ -57,11 +65,11 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
 
               
 
-              Uploading 2023-01-05 20-31-34.mp4…
+  https://user-images.githubusercontent.com/113228728/210813243-c14f6fa4-8d73-46e0-b1eb-093021768229.mp4
 
 
 
-        **************** **CLICK ON MORE TO GET BACK TO THE ALARM AND STOPWATCH PAGE** ***************
+**************** **CLICK ON MORE TO GET BACK TO THE ALARM AND STOPWATCH PAGE** ***************
 
 # Contributing
 If you'd like to contribute to this project, please contact me.
