@@ -32,7 +32,7 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
             5. You can Stop the alarm before or after the alarm rings. 
         
 
-              Uploading 2023-01-05 20-21-52.mp4…
+   Uploading 2023-01-05 20-21-52.mp4…
 
 
         ====== **StopWatch** ======
