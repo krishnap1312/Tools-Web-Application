@@ -38,10 +38,10 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
 
 ## **====== StopWatch ======**
    ### How to use it?
-   1. Click on **StopWatch** from **Navigation** bar on the top.
-   2. Click on the **Start** button to start the Stopwatch.
-   3. Click on the **Reset** button to Reset the stopwatch.
-   4. click on the **Stop** button on the stopwatch at a particular time.
+   ### 1. Click on **StopWatch** from **Navigation** bar on the top.
+   ### 2. Click on the **Start** button to start the Stopwatch.
+   ### 3. Click on the **Reset** button to Reset the stopwatch.
+   ### 4. click on the **Stop** button on the stopwatch at a particular time.
             
             
 
@@ -59,10 +59,10 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
 
 ## **====== CountDown ======**
    # How to use it?
-   1. click on **CountDown** from **Navigation** bar on the top.
-   2. Set **CountDown** number manually as required.
-   3. click on **Start Count** button to start CountDown.
-   4. you can **Reset** the CountDown. 
+   ### 1. click on **CountDown** from **Navigation** bar on the top.
+   ### 2. Set **CountDown** number manually as required.
+   ### 3. click on **Start Count** button to start CountDown.
+   ### 4. you can **Reset** the CountDown. 
 
               
 
