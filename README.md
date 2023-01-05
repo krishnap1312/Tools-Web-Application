@@ -31,6 +31,10 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
             4. Click on **start** button to start alarm.
             5. You can Stop the alarm before or after the alarm rings. 
         
+
+              Uploading 2023-01-05 20-21-52.mp4…
+
+
         ====== **StopWatch** ======
         # How to use it?
             1. Click on **StopWatch** from **Navigation** bar on the top.
@@ -39,6 +43,10 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
             4. click on the **Stop** button on the stopwatch at a particular time.
             
         ************************************* **CLICK ON MORE** *************************************
+              
+
+              Uploading 2023-01-05 20-30-09.mp4…
+
 
         ====== **CountDown** ======
         # How to use it?
@@ -46,6 +54,12 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
             2. Set **CountDown** number manually as required.
             3. click on **Start Count** button to start CountDown.
             4. you can **Reset** the CountDown. 
+
+              
+
+              Uploading 2023-01-05 20-31-34.mp4…
+
+
 
         **************** **CLICK ON MORE TO GET BACK TO THE ALARM AND STOPWATCH PAGE** ***************
 
