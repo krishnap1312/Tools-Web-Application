@@ -70,7 +70,7 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
 
 
 
-## **************** **CLICK ON MORE TO GET BACK TO THE ALARM AND STOPWATCH PAGE** ***************
+### **************** **CLICK ON MORE TO GET BACK TO THE ALARM AND STOPWATCH PAGE** ***************
 
 # Contributing
 If you'd like to contribute to this project, please contact me.
