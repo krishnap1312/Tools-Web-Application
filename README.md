@@ -52,7 +52,7 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
 
 
             
-## ************************************* **CLICK ON MORE** *************************************
+## ***************** **CLICK ON MORE** **********************
               
 
  
