@@ -76,3 +76,109 @@ This project can be used to utilize different tools such as Alarms, Stopwatches 
 # Contributing
 If you'd like to contribute to this project, please contact me.
 
+
+
+-------------------------------------------------
+
+
+BH V KRISHNA PRASAD
+Raipur Chhattisgarh
+492010
+bhvkrishna1302@gmail.com
+9039437039
+
+LinkedIn: https://www.linkedin.com/in/bh-v-krishna-prasad-211803222/
+GitHub: https://github.com/krishnap1312
+
+---
+
+### Summary
+
+Experienced software developer with 1 year of expertise in building dynamic web applications using HTML, CSS, JavaScript, ReactJS, Node.js, MongoDB, and Express. Proficient in both front-end and back-end development, with a strong understanding of modern web technologies and frameworks. Adept at translating client requirements into efficient and scalable solutions while ensuring high code quality and maintainability. Passionate about staying updated with the latest industry trends and enhancing skills through self-learning and professional development. Collaborative team player with excellent communication and problem-solving abilities.
+
+### Experience
+
+**Software Developer**
+*Aloha Technology*
+*April 2022 - December 2022*
+*Pune, Maharashtra*
+
+**Project: Global Reward Solutions**
+- Developed a cloud-based solution, Global Reward Solutions, for efficient rewards procurement and global fulfillment.
+- Consolidated a network of global suppliers into a single dashboard, automating reward data and order fulfillment.
+- Assured product availability, leading to increased sales, profit, and company goodwill.
+
+**Technologies Used:**
+HTML, CSS, JavaScript, React JS, Laravel, PHP, Java, Python
+
+**Junior Accountant**
+*Sai Laxmi Marketing*
+*December 2022 - Present*
+
+- Sales and Purchase entry
+- Voucher Entry
+
+### Personal Projects
+
+**People’s Bank (Net Banking)**
+*April 2023 – June 2023*
+
+**Description:**
+The Net Banking Project allows users to register, open a bank account, and access online banking facilities. Admin allocates account numbers to users who can then log in to check balances, perform fund transfers, and make dummy bill payments. Job posters can also register, login, and post job vacancies on the bank's careers page. An agent handles account allocation and login details.
+
+**Features of the Application:**
+- User Registration and Account Opening:
+  - Users can register with the application by providing required personal information.
+  - After successful registration, an admin will allocate a unique account number to the user.
+  - The user can then log in using the allocated account number and a secure password.
+- Account Management:
+  - Users can log in and view their account details, including their account balance and transaction history.
+  - They can perform fund transfers to other registered accounts within the bank.
+  - The application allows users to make dummy bill payments, deducting the payment amount from their account balance.
+- Job Posting:
+  - Job posters can register with the application and receive login credentials.
+  - Once logged in, they can create, add, update, and delete job vacancies on the bank's careers page.
+  - Job seekers can view and apply for these job vacancies through the same portal.
+- Agent Management:
+  - Agents have access to the application to handle the allocation of account numbers and login details for customers and job posters.
+  - They can register new users and job posters and assist in resolving any account-related issues.
+
+**Technologies Used:**
+Front-end: ReactJS, Bootstrap, MDB(Material Design for Bootstrap), CSS, Formik Library
+Back-end: NodeJS, ExpressJS
+Database: MongoDB
+
+**Other Projects:**
+- Library Management
+- E-Commerce Website
+- Time Table Generator
+
+### Education
+
+**Master of Computer Application**
+*Kalinga University, Chhattisgarh*
+*06/2020 – 05/2022*
+
+**Bachelor of Commerce**
+*Pt. Ravishankar Shukla University, Raipur, Chhattisgarh*
+*05/2017 – 05/2020*
+
+### Certifications
+
+- Python Programming, Ministry of Electronics and Information Technology (MeitY), Government of India, 2021
+
+### Languages
+
+- English
+- Hindi
+- Telugu
+
+### Skills
+
+**Primary Skills:** React JS, Node JS, REST API using NodeJS, HTML, CSS, JavaScript, Python, MongoDB, AWS, SQL Server
+
+**Other Technical Skills:** Object Oriented Programming, jQuery, APIs, Bootstrap
+
+**Soft Skills:** Teamwork, Communication, Problem-solving, Attention to detail, Analytical thinking
+
+
